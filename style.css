@@ -66,7 +66,7 @@ header h1 {
 
 .about-me {
   display: flex;
-  background: linear-gradient(rgba(249, 249, 250, 0.94),rgba(249, 249, 250, 0.94)),url(./images/about-background.jpg);
+background: linear-gradient(rgba(50, 50, 50, 0.25),rgba(50, 50, 50, 0.25)),url(./images/background.jpg);
   background-size: cover;
   background-position: center center;
   padding-top: 142px;
@@ -76,12 +76,13 @@ header h1 {
 .about-me h2 {
   padding-bottom: 25px;
   margin-bottom: 0px;
+  color: #4B423E;
 }
 
 .wrapper {
    padding-left: 190px;
    padding-right: 190px;
-   color: #3C3230;
+   color: #4B423E;
 }
 
 .back-arrow {
